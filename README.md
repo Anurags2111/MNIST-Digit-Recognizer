@@ -11,3 +11,5 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 The training data set, (train.csv), has 785 columns. The first column, called "label", is the digit that was drawn by the user. The rest of the columns contain the pixel-values of the associated image.
 
 Each pixel column in the training set has a name like pixelx, where x is an integer between 0 and 783, inclusive. To locate this pixel on the image, suppose that we have decomposed x as x = i * 28 + j, where i and j are integers between 0 and 27, inclusive. Then pixelx is located on row i and column j of a 28 x 28 matrix, (indexing by zero).
+
+![1_z7hd8fzei_eodazwiapvaw](https://user-images.githubusercontent.com/23147497/43595403-34081a98-969a-11e8-8cc3-14cde527c947.png)
